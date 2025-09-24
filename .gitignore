@@ -1,0 +1,12 @@
+# Exclude sensitive and non-Node files
+.env
+# Python-related
+*.py
+__pycache__/
+requirements.txt
+# Node
+node_modules/
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
